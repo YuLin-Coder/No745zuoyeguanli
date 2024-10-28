@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/admin/add_teacher.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/admin/clazz_list.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/admin/teacher_list.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/student/studentHomework_info.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/student" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/student/studentHomework_list.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/student" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher/add_homework.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher/set.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher/studentHomework_info.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher/studentHomework_list.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher/student_info.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher/teacher_index.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/teacher" />
+      </map>
+    </option>
+  </component>
+</project>

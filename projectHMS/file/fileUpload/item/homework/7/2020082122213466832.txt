@@ -1,0 +1,60 @@
+grant SELECT,UPDATE,INSERT,DELETE on . to 'work'@'%' identified by 'Ysp12345!';
+
+rpm -Uvh mysql80-community-release-el7-3.noarch.rpm
+
+grep 'temporary password' /var/log/mysqld.log
+
+(-VTE*HYm6.j
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Ysp12345!';
+
+CREATE USER 'root'@'%' IDENTIFIED BY 'Ysp12345!';
+GRANT CREATE,DROP,REFERENCES,ALTER,INDEX,TRIGGER,SELECT,UPDATE,INSERT,DELETE ON *.* TO 'root'@'%' WITH GRANT OPTION;
+
+./apache-tomcat-8.5.57/bin/shutdown.sh
+./apache-tomcat-8.5.57/bin/startup.sh
+
+
+scp o2o.war root@39.107.127.198:/root/apache-tomcat-8.5.57/webapps
+
+最新安装指令见下面：
+
+chmod +x jdk-8u261-linux-x64.rpm
+rpm -ivh jdk-8u261-linux-x64.rpm
+java -version
+
+rpm -Uvh mysql57-community-release-el7-11.noarch.rpm
+yum install mysql-community-server
+
+service mysqld start
+grep 'temporary password' /var/log/mysqld.log
+SwBSa!j,(6YB
+mysql -uroot -p
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Ysp12345!';
+
+use mysql;
+grant all privileges on *.* to 'ysp'@'%' identified by 'Ysp12345!';
+flush privileges;
+
+tar -zxvf redis-4.0.2.tar.gz
+vi redis-4.0.2/redis.conf
+
+cd redis-4.0.2
+make
+src/redis-server redis.conf
+src/redis-cli
+
+tar -zxvf apache-tomcat-8.5.57.tar.gz
+./apache-tomcat-8.5.57/bin/startup.sh
+
+scp o2o.war root@39.107.127.198:/root/apache-tomcat-8.5.57/webapps
+
+39.107.127.198
+
+./apache-tomcat-8.5.57/bin/shutdown.sh
+./apache-tomcat-8.5.57/bin/startup.sh
+
+<Context path="/" docBase="/root/apache-tomcat-8.5.57/webapps/o2o" reloadable="false" allowLinking="true"></Context>
+
+com.bjtu.edu.exception.TeacherOperationException: modifyTeacherError:n
